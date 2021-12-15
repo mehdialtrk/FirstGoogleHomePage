@@ -1,0 +1,119 @@
+
+.container{
+width: 1210px;
+height: 400px;
+margin: 20px auto 0 ;
+
+}
+.top-box{/*google bar*/
+ margin: 0 35%;
+}
+.content{
+    background-color: #EEEEEE;
+    width: 1095px;
+    height: 60px;
+    margin: auto 54px;
+    padding: 2px 2px;
+
+}
+.search-box{
+    margin:0 33%;
+    text-align: center;
+    padding: auto 2px;
+
+
+}
+.text-style{
+    text-align: bottom;
+    margin: 0 40%;
+}
+
+.content2{
+    width: 1100px;
+    height: 60px;
+    margin: 1px 53px;
+    padding: 1px ;
+    
+
+}
+.left-box {
+    background: #7EE5DA;
+    text-decoration: underline;
+    width: 36.8%;
+    float: left;
+    height: 70px;
+    padding: 3px 0;
+    margin: 0 2px 0 0;
+
+}
+.left-box ul{
+    margin: 0;
+    padding: 0;
+}
+.left-box li{
+    list-style-type: none;
+    text-align: center;
+}
+.center-box{
+    background:#70CCC2;
+    float: left;
+    text-decoration: underline;
+    width: 20%;
+    height: 70px;
+    padding:3px 0px;
+}
+.center-box ul{
+    margin: 0;
+    padding: 0;
+}
+.center-box li{
+    list-style-type: none;
+    text-align: center;
+    font-size: 13px;
+  
+}
+
+.right-box{
+    background: #62B3AA;
+    float: left;
+    text-decoration: underline;
+    width: 42.8%;
+    padding:3px 0;
+    height: 70px;
+    margin: 0 0 0 2px;
+
+
+}
+.right-box p{
+    margin: 0 1px 0 1px;
+    padding: 1px;
+    text-align: center;
+    font-size: 13px;
+    text-decoration:none;
+    
+
+}
+.right-box input{
+    padding: 0 ;
+    margin:  0 33% ;
+    text-align: left;
+}
+.right-box form {
+    
+    margin:0 33%;
+    text-align: center;
+    padding: auto 2px;
+}
+.right-box form a{
+    font-size: 13.5px;
+    margin: 0 3px;
+}
+
+
+
+
+.footer{
+
+    text-align: center;
+    font-size: 13px;
+}
